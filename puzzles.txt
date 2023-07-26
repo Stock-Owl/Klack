@@ -1,0 +1,3 @@
+3 lockpick
+sort algorithms by their time complexity
+501 radioaktív és 499 sima golyó
