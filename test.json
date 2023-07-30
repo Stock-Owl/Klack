@@ -1,0 +1,46 @@
+{
+    "meta":
+    {
+        "time": [10, 0],
+        "position": [8, 8]
+    },
+    "rooms":
+    {
+        "1":
+        {
+            "name": "Bathroom"
+        },
+        "2":
+        {
+            "name": "Bedroom"
+        },
+        "3":
+        {
+            "name": "Room"
+        },
+        "4":
+        {
+            "name": "Office"
+        },
+        "5":
+        {
+            "name": "Lobby"
+        },
+        "6":
+        {
+            "name": "Kitchen"
+        },
+        "7":
+        {
+            "name": "Closet"
+        },
+        "8":
+        {
+            "name": "Hall"
+        },
+        "9":
+        {
+            "name": "Dining room"
+        }
+    }
+}
